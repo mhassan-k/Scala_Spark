@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.spark.sparkSql.Pscala
+Class-Path: E:\03_ITI\22_Scala\Scala-Spark-tutorial\src\main\scala\com\s
+ parkTutorial\sparkSql\Pscala.scala
+
